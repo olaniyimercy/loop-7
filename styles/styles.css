@@ -65,12 +65,12 @@ body {
     color: #090e14;
 }
 
-.text-a::first-letter { 
+.first-paragraph::first-letter { 
     font-size: 20px;
     font-weight: bold;
 }
 
-.text-b {
+.second-paragraph {
     margin-top: 15px;
 }
 
